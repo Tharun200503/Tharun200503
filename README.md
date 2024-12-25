@@ -16,5 +16,18 @@ Aspiring **Data Scientist** and **Web Developer**!
 
 ---
 ### I Code in:
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/> <img width="64" height="64" src="https://img.icons8.com/external-bearicons-flat-bearicons/64/external-SQL-file-extension-bearicons-flat-bearicons.png" alt="external-SQL-file-extension-bearicons-flat-bearicons"/> <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/> <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/> <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/> 
+
+---
+### IDE and Tools I use:
+<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/> <img width="48" height="48" src="https://img.icons8.com/color/48/webstorm.png" alt="webstorm"/> <img width="50" height="50" src="https://img.icons8.com/fluency-systems-regular/50/notion.png" alt="notion"/> <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> <img width="48" height="48" src="https://img.icons8.com/color-glass/48/adobe-photoshop.png" alt="adobe-photoshop"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/> 
+
+---
+### 💻 Workspace Spec:
+
+
+---
+[![Tharun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tharun200503&bg_color=383838&color=77fb74&line=49df7b&point=bdffbe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
