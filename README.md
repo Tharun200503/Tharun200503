@@ -20,7 +20,7 @@ Aspiring **Data Scientist** and **Web Developer**!
 
 ---
 ### IDE and Tools I use:
-<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/> <img width="48" height="48" src="https://img.icons8.com/color/48/webstorm.png" alt="webstorm"/> <img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/notion.png" alt="notion"/> <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> <img width="48" height="48" src="https://img.icons8.com/color-glass/48/adobe-photoshop.png" alt="adobe-photoshop"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/> <img width="48" height="48" src="https://img.icons8.com/color/48/webstorm.png" alt="webstorm"/> <img width="48" height="48" src="https://img.icons8.com/color/48/notion.png" alt="notion"/> <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> <img width="48" height="48" src="https://img.icons8.com/color-glass/48/adobe-photoshop.png" alt="adobe-photoshop"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/> 
 
 ---
 ### 💻 Workspace Spec:
