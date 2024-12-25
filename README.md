@@ -12,7 +12,7 @@ Aspiring **Data Scientist** and **Web Developer**!
 - 😂Pronouns: Techie
 - ⚡Fun Fact: I know Photoshop too!
 - ![LinkedIn Connections]()
-- ![Youtube Channel Views](https://img.shields.io/youtube/channel/views/https%3A%2F%2Fwww.youtube.com%2F%40Tharun-AS)
+- ![Youtube Channel Views](https://img.shields.io/youtube/channel/views/UCdbSA57q95Io42Nj7GpZ5Dg)
 
 ---
 ### I Code in:
