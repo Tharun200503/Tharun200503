@@ -1,6 +1,6 @@
 # **Hi there! I'm Tharun A S**
 ---
-Aspiring Data Scientist and Web Developer!
+Aspiring **Data Scientist** and **Web Developer**!
 
 - 🔭 Here's my [Portfolio]()
 - 🌱 I'm currently a B.SC Computer Science Student at S. A. College of Arts and Science.
