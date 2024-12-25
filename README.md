@@ -27,7 +27,7 @@ Aspiring **Data Scientist** and **Web Developer**!
 
 
 ---
-[![Tharun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tharun200503&bg_color=383838&color=77fb74&line=49df7b&point=bdffbe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tharun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tharun200503&bg_color=0d0d0d&color=77fb74&line=49df7b&point=bdffbe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
