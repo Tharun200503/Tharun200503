@@ -35,8 +35,8 @@ Aspiring **Data Scientist** and **Web Developer**!
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tharun200503&theme=dark&show_icons=true&&hide=issues,contribs)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tharun200503&show_icons=true&locale=en" alt="Tharun200503" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tharun200503&theme=dark&show_icons=true&locale=en" alt="Tharun200503" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun200503&" alt="Tharun200503" /></p></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun200503&theme=dark" alt="Tharun200503" /></p></a>
 
 ---
