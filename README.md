@@ -24,7 +24,7 @@ Aspiring **Data Scientist** and **Web Developer**!
 
 ---
 ### 💻 Workspace Spec:
-
+<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 
 ---
 [![Tharun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tharun200503&bg_color=0d0d0d&color=77fb74&line=49df7b&point=bdffbe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -33,7 +33,7 @@ Aspiring **Data Scientist** and **Web Developer**!
 
 ### My GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tharun200503&show_icons=true&locale=en&layout=compact" alt="Tharun200503" /></p>
+![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tharun200503&theme=dark&show_icons=true&&hide=issues,contribs)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tharun200503&show_icons=true&locale=en" alt="Tharun200503" /></p>
 
