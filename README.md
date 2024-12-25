@@ -1,7 +1,7 @@
 # **Hi there! 👋🏻 I'm Tharun A S**
 ---
 Aspiring **Data Scientist** and **Web Developer**!
-<img align="right" width="370" height="290" src="https://i.pining.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [Portfolio]()
 - 🌱 I'm currently a B.SC Computer Science Student at S. A. College of Arts and Science.
 - 🪢 I'm looking to collaborate on ML/AI.
