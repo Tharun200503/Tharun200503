@@ -39,4 +39,6 @@ Aspiring **Data Scientist** and **Web Developer**!
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun200503&theme=dark" alt="Tharun200503" /></p></a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tharun200503&theme=dark&border_radius=7.5)](https://git.io/streak-stats)
+
 ---
