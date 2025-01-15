@@ -30,8 +30,6 @@ Aspiring **Data Scientist** and **Web Developer**!
 ---
 [![Tharun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tharun200503&bg_color=0d0d0d&color=77fb74&line=49df7b&point=bdffbe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tharun200503&theme=dark" alt="GitHub Streak" /></a>
-
 ---
 
 ### My GitHub Stats
@@ -41,5 +39,7 @@ Aspiring **Data Scientist** and **Web Developer**!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tharun200503&theme=dark&show_icons=true&locale=en" alt="Tharun200503" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tharun200503&theme=dark)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tharun200503&theme=dark" alt="Tharun200503 GitHub Streak" /></a>
 
 ---
