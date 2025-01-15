@@ -38,6 +38,6 @@ Aspiring **Data Scientist** and **Web Developer**!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tharun200503&theme=dark&show_icons=true&locale=en" alt="Tharun200503" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tharun200503&theme=dark)](https://git.io/streak-stats)
+
 
 ---
