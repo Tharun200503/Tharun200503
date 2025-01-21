@@ -4,7 +4,7 @@ Aspiring **Data Scientist** and **Web Developer**!
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [Portfolio](#) and [Resume](https://drive.google.com/file/d/1BNs5g8ODAOrAPUXZ2LVOP8UBQJjgTACB/view?usp=drive_link)
 - 🌱 I'm a B.SC Computer Science Student at S. A. College of Arts and Science.
-- - To [Contact Me](https://tharun200503.github.io/contact-tharun/)
+- ✉️ To [Contact Me](https://tharun200503.github.io/contact-tharun/)
 - 🪢 I'm looking to collaborate on ML/AI.
 - 🤔 I’m looking for help with Placements in Data Science roles.
 - 💭 Ask me about Python, SQL, Pandas, PowerBI, AI, ML, HTML, CSS, Data Science.
