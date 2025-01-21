@@ -10,8 +10,8 @@ Aspiring **Data Scientist** and **Web Developer**!
 - 💭 Ask me about Python, SQL, Pandas, PowerBI, AI, ML, HTML, CSS, Data Science.
 - 📫 How to reach me :
 <br />	[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@Tharun-AS) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tharun-a-s-b45b8a2a8) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/tharun_as_2005)
-- 😂Pronouns: Programmer/Developer
-- ⚡Fact: I know Photoshop too!
+- ⚡ Pronouns: Programmer/Developer
+- 😁 Fun Fact: To download all the information from the internet today, it would take 181 million years!
 - ![Youtube Channel Subscribers](https://img.shields.io/youtube/channel/views/UCdbSA57q95Io42Nj7GpZ5Dg)
 - ![Youtube Channel Views](https://img.shields.io/youtube/channel/subscribers/UCdbSA57q95Io42Nj7GpZ5Dg)
 
