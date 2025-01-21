@@ -40,6 +40,4 @@ Aspiring **Data Scientist** and **Web Developer**!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tharun200503&theme=dark)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tharun200503&theme=dark" alt="Tharun200503 GitHub Streak" /></a>
-
 ---
